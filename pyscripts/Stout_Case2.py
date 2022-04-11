@@ -10,7 +10,7 @@ pd.set_option("display.max_columns", 100, "display.max_rows", 100)
 # ### Case Study #2
 
 # %%
-df = pd.read_csv("C:\\Users\\deeks\\Downloads\\casestudy.csv").iloc[:, 1:]
+df = pd.read_csv("./data/casestudy.csv").iloc[:, 1:]
 
 
 # %%
