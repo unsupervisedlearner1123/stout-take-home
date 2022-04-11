@@ -1,0 +1,1 @@
+This directory contains the Python scripts of the solution notebooks.
